@@ -1,10 +1,10 @@
 # BunnyTheGame
 
-This is the first prototype of a paltformer game called Bunny, The game.
+This is the first prototype of a paltformer game called Bunny, The game. All game has been programmed in C# and build in Unity3D.
+The code will be avalaible soon with the first final realease.
 
 
-
-You can Play Bunny the game here: https://itch.io/embed-upload/4167782?color=333333
+You can Play Bunny the game prototype here: https://itch.io/embed-upload/4167782?color=333333
 
 
 Instructions:
